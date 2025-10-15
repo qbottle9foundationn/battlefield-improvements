@@ -12,3 +12,4 @@ Record action items
 Update mitigation table
 Investigate performance bottleneck
 List community ideas
+Summarize journalist list
