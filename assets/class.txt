@@ -4,3 +4,4 @@ Add more documentation notes
 Update proof-of-concept
 Draft quarterly report
 Update dispute outcomes
+Update governance notes
