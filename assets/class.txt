@@ -9,3 +9,4 @@ Summarize quota usage
 Draft celebration notes
 Draft accessibility review
 Record action items
+Update mitigation table
