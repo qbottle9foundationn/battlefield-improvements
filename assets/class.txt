@@ -2,3 +2,4 @@ Record underfit case
 Note recall issues
 Check customs docs
 Update load balancer notes
+Log mitigation steps
