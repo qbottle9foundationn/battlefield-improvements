@@ -8,3 +8,4 @@ Update FAQ section
 Record key rotation plan
 Draft ensemble plan
 Check TLS configuration
+Note audit trail
