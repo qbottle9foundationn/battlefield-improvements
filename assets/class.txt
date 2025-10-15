@@ -6,3 +6,4 @@ Log mitigation steps
 Summarize permission gaps
 Update dropout rate
 Summarize quota usage
+Draft celebration notes
