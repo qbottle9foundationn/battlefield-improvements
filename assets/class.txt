@@ -3,3 +3,4 @@ Summarize candidate profiles
 Summarize journalist list
 Reevaluate requirements
 Record load test data
+Note encryption methods
