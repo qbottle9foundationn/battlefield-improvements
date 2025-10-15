@@ -16,3 +16,4 @@ Summarize journalist list
 Summarize version bumps
 Note pass/fail ratio
 Summarize workshop notes
+Note reorder points
