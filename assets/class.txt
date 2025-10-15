@@ -19,3 +19,4 @@ Summarize workshop notes
 Note reorder points
 List technical debts
 Review escalation paths
+Refine SEO checklist
