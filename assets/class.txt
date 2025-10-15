@@ -2,3 +2,4 @@ List banking contacts
 Record stock counts
 List password policies
 Draft reproducibility plan
+Update skill matrix
