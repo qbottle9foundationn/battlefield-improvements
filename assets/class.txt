@@ -21,3 +21,4 @@ List technical debts
 Review escalation paths
 Refine SEO checklist
 Update pricing table
+Record treasury notes
