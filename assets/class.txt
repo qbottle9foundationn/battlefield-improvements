@@ -3,3 +3,4 @@ Record HR initiatives
 Draft forum summary
 Draft compliance review
 Record restore attempt
+Note training epochs
