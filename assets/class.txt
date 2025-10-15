@@ -1,1 +1,2 @@
 List banking contacts
+Record stock counts
