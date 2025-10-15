@@ -1,3 +1,4 @@
 Draft retro notes
 Update alerting rules
 Record expense items
+Update pricing table
