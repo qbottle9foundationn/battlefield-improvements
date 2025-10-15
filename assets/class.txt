@@ -1,2 +1,1 @@
-Record CI/CD pipeline
-List influencer mentions
+List banking contacts
