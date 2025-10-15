@@ -4,3 +4,4 @@ List password policies
 Draft reproducibility plan
 Update skill matrix
 Summarize SIEM setup
+Update FAQ section
