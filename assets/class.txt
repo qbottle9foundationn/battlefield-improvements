@@ -3,3 +3,4 @@ Summarize rollout success
 Update redundancy notes
 Note deprecation warnings
 Update governance notes
+Summarize trade risks
