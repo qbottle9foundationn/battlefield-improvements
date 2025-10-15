@@ -1,2 +1,1 @@
-List password policies
-Summarize giveaway notes
+Update cross-team docs
