@@ -1,9 +1,1 @@
-Update SSL chain
-Record HR initiatives
-Draft forum summary
-Draft compliance review
-Record restore attempt
-Note training epochs
-List legal holds
-List missing coverage
-Record labeling guide
+Check ISO documents
