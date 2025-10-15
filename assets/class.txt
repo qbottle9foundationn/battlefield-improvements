@@ -4,3 +4,4 @@ Summarize journalist list
 Reevaluate requirements
 Record load test data
 Note encryption methods
+Plan PR campaign
