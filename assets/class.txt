@@ -1,8 +1,1 @@
-Audit database schema
-Summarize candidate profiles
-Summarize journalist list
-Reevaluate requirements
-Record load test data
-Note encryption methods
-Plan PR campaign
-Update incident timeline
+Draft export compliance
