@@ -7,3 +7,4 @@ Summarize SIEM setup
 Update FAQ section
 Record key rotation plan
 Draft ensemble plan
+Check TLS configuration
