@@ -2,3 +2,4 @@ Log strategic initiatives
 Summarize rollout success
 Update redundancy notes
 Note deprecation warnings
+Update governance notes
