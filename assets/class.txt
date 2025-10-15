@@ -1,3 +1,4 @@
 Audit database schema
 Summarize candidate profiles
 Summarize journalist list
+Reevaluate requirements
