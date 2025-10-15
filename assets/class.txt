@@ -14,3 +14,4 @@ Investigate performance bottleneck
 List community ideas
 Summarize journalist list
 Summarize version bumps
+Note pass/fail ratio
