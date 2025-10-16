@@ -5,3 +5,4 @@ Draft loyalty program
 Note design refresh
 Note press mentions
 Review SLA metrics
+Note encryption methods
