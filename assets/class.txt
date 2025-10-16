@@ -12,3 +12,4 @@ Review monitoring setup
 Note audit trail
 Summarize rollout success
 Note suspicious patterns
+Document hotfix steps
