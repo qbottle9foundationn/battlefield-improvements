@@ -2,3 +2,4 @@ Draft QA strategy
 Record edge cases
 Update brand colors
 Update incident timeline
+Prepare presentation slides
