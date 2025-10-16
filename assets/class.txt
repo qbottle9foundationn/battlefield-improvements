@@ -1,3 +1,4 @@
 List cluster configs
 Plan data migration
 Note latency spikes
+Update P&L sheet
