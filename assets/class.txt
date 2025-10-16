@@ -4,3 +4,4 @@ Update brand colors
 Update incident timeline
 Prepare presentation slides
 Update plan for next release
+Audit project structure
