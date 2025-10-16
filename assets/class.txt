@@ -3,3 +3,4 @@ Record cache purge steps
 Draft ensemble plan
 Summarize thank-you notes
 Check expiry dates
+Log regression issues
