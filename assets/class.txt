@@ -6,3 +6,4 @@ Note design refresh
 Note press mentions
 Review SLA metrics
 Note encryption methods
+List domain records
