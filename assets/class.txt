@@ -1,3 +1,4 @@
 Track design iterations
 Draft access review
 Draft training slides
+Update redundancy notes
