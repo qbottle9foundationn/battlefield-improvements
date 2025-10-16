@@ -4,3 +4,4 @@ Draft PR highlights
 Reevaluate requirements
 Draft leadership notes
 Draft root cause notes
+Update release notes
