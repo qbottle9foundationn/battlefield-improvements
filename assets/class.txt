@@ -1,10 +1,1 @@
-Summarize referral data
-Draft packaging guide
-Draft PR highlights
-Reevaluate requirements
-Draft leadership notes
-Draft root cause notes
-Update release notes
-Track timeline adjustments
-List semantic changes
-Summarize warehouse logs
+List cluster configs
