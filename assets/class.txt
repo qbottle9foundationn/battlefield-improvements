@@ -1,10 +1,1 @@
-Record experiment seeds
-Update dependency versions
-Draft sourcing notes
-Draft loyalty program
-Note design refresh
-Note press mentions
-Review SLA metrics
-Note encryption methods
-List domain records
-Update rollback notes
+Draft pseudonymization plan
