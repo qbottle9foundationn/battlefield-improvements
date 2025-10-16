@@ -7,3 +7,4 @@ Record cache purge steps
 Review monitoring setup
 Draft upsell campaign
 Draft retro notes
+Update P&L sheet
