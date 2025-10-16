@@ -6,3 +6,4 @@ Draft leadership notes
 Draft root cause notes
 Update release notes
 Track timeline adjustments
+List semantic changes
