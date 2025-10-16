@@ -8,3 +8,4 @@ Update governance notes
 Note latency spikes
 Update SOC reports
 Refine backlog items
+Update alerting rules
