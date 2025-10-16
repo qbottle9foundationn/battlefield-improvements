@@ -1,7 +1,1 @@
-Track design iterations
-Draft access review
-Draft training slides
-Update redundancy notes
-Check error handling
-Note escalation matrix
-Schedule publishing plan
+Draft QA strategy
