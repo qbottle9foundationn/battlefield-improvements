@@ -3,3 +3,4 @@ Draft opportunity list
 Note registry updates
 Draft logistics plan
 Draft training slides
+Record cache purge steps
