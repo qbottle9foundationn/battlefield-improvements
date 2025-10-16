@@ -10,3 +10,4 @@ Update legal references
 Update annotation tool
 Reevaluate requirements
 Summarize feedback loops
+Summarize key takeaways
