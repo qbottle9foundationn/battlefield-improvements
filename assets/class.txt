@@ -5,3 +5,4 @@ Update P&L sheet
 Draft weekly digest
 Summarize zone updates
 List missing translations
+Document key decisions
