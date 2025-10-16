@@ -1,8 +1,1 @@
-List cluster configs
-Plan data migration
-Note latency spikes
-Update P&L sheet
-Draft weekly digest
-Summarize zone updates
-List missing translations
-Document key decisions
+Check customs docs
