@@ -2,3 +2,4 @@ Record experiment seeds
 Update dependency versions
 Draft sourcing notes
 Draft loyalty program
+Note design refresh
