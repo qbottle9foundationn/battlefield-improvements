@@ -11,3 +11,4 @@ Update P&L sheet
 Review monitoring setup
 Note audit trail
 Summarize rollout success
+Note suspicious patterns
