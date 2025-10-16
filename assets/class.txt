@@ -4,3 +4,4 @@ Note latency spikes
 Update P&L sheet
 Draft weekly digest
 Summarize zone updates
+List missing translations
