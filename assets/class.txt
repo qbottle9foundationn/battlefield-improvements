@@ -11,3 +11,4 @@ Update annotation tool
 Reevaluate requirements
 Summarize feedback loops
 Summarize key takeaways
+Draft NDA template
