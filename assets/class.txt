@@ -5,3 +5,4 @@ Summarize thank-you notes
 Check expiry dates
 Log regression issues
 Record prototype feedback
+Plan resource allocation
