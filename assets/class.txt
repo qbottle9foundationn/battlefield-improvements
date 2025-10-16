@@ -6,3 +6,4 @@ Draft quarterly report
 Update dispute outcomes
 Update governance notes
 Note latency spikes
+Update SOC reports
