@@ -1,1 +1,2 @@
 Check customs docs
+Note deprecated functions
