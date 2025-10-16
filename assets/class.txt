@@ -7,3 +7,4 @@ Update plan for next release
 Audit project structure
 Draft upsell campaign
 Update legal references
+Update annotation tool
