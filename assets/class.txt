@@ -3,3 +3,4 @@ Note deprecated functions
 Plan deployment strategy
 Update cross-team docs
 Record event calendar
+Update the glossary with new domain-specific terms
